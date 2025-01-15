@@ -61,7 +61,7 @@ fun MainContent(modifier: Modifier = Modifier) {
         OutlinedTextField(
             value = input.value,
             onValueChange = { input.value = it },
-            label = { Text("Enter a value", color = DarkBlue) },
+            label = { Text("Enter a value of BMI", color = DarkBlue) },
             modifier = Modifier
                 .fillMaxWidth()
                 .padding(8.dp),
