@@ -1,4 +1,4 @@
-package com.example.bmi_aplication
+package com.example.demo
 
 import org.junit.Test
 

@@ -1,4 +1,4 @@
-package com.example.bmi_aplication.ui.theme
+package com.example.demo.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
